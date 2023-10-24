@@ -1,0 +1,5 @@
+# arquivos de cache do Python
+*.pyc
+*.pyo
+__pycache__/
+.ipynb_checkpoints
